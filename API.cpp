@@ -1,14 +1,4 @@
-﻿#ifndef UNICODE
-#define _UNICODE
-#endif 
-
-#include <windows.h>
-#include <iostream>
-#include <string>
-#include <vector>
-#include <map>
-#include <codecvt>
-#include <functional>
+﻿#include "API.h"
 
 class Window {
 private:
